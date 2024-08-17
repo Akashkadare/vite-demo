@@ -1,5 +1,6 @@
 {
   "name": "newdemo",
+  "homepage": "https://akashkadare.github.io/demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
